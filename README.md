@@ -9,4 +9,6 @@ And change the permmison:
 ```shell
 chmod 755 libfcitx5platforminputcontextplugin.so
 ```
-The you can enter Chinese characters in your qt application now.
+The you can enter Chinese characters with fcitx in your qt application now.
+
+(mention: I got both fcitx and fcitx5 installed. I'm not sure whether it maters or not.)
