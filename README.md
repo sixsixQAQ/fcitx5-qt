@@ -3,7 +3,10 @@ The libraries were generated on debian 11 with gcc 10.2.1-6, qt 6.3.1 and qt 5.1
 
 ## Usage
 
-Put the `libfcitx5platforminputcontextplugin.so`  to the path `<QT_INSATLL_PATH>/gcc_64/plugins/platforminputcontexts/`.
+Put the `libfcitx5platforminputcontextplugin.so` to the path below:
+```shell
+<QT_INSATLL_PATH>/gcc_64/plugins/platforminputcontexts/
+```
 
 And change the permmison:
 ```shell
